@@ -1,14 +1,25 @@
+
+
+img {
+    position: absolute;
+
+}
+
 #clock {
+    
 }
 
 #clock img {
 }
 
 #hour {
+    /* transform: rotate(45deg); */
 }
 
 #minute {
+    /* transform: rotate(45deg); */
 }
 
 #second {
+    /* transform: rotate(45deg); */
 }
